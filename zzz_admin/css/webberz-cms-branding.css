@@ -1,0 +1,7 @@
+@CHARSET "utf-8";
+.ss-loading-screen { width: 100%; height: 100%; overflow: hidden; position: absolute; z-index: 100000; background: #fff; background: -moz-radial-gradient(50% 50% 180deg, circle cover, white, #efefef, #c7c7c7 100%); background: -webkit-gradient(radial, 50% 50%, 350, 50% 50%, 0, from(#e3e3e3), to(white)); }
+.ss-loading-screen .loading-logo { width: 100%; height: 100%; overflow: hidden; position: absolute; background: transparent url(../images/webberz-ss-branding.gif) no-repeat 50% 50%; }
+.ss-loading-screen p { width: 100%; text-align: center; position: absolute; bottom: 80px; z-index: 100001; }
+.ss-loading-screen p span.notice { width: 300px; font-size: 14px; padding: 10px 20px; color: #dc7f00; border: none; background: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; display: inline-block; zoom: 1; *display: inline; }
+.ss-loading-screen .loading-animation { display: none; position: absolute; left: 49%; top: 75%; }
+.cms-logo a { position: absolute; top: 8px; bottom: 8px; left: 4px; display: block; width: 24px; background: url("../images/webberz_logo_small.png") no-repeat left center; text-indent: -9999em; padding-right: 7px; border-right: 1px solid #19435c; }
