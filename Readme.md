@@ -11,4 +11,4 @@ the: CMSLoadingScreen.ss is only to see how to extend a template, I'm replacing 
 
 for more information visit: 
 http://doc.silverstripe.org/framework/en/howto/extend-cms-interface
-http://doc.silverstripe.org/framework/en/reference/cms-architecture
+http://doc.silverstripe.org/framework/en/reference/cms-architecture..
